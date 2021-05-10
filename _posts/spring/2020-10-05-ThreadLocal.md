@@ -42,7 +42,7 @@ class C {
 }
 ```
 
-![thread image](/assets/images/2020-10-05-ThreadLocal.png)
+![thread image](/blog/assets/images/spring/2020-10-05-ThreadLocal.png)
 
 파라미터로 객체를 전달하지 않아도 한 쓰레드로 실행되는 코드가 동일한 객체를 참조할 수 있게 된다.
 
