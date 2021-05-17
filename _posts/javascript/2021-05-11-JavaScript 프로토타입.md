@@ -7,12 +7,18 @@ tags: ["JavaScript"]
 ---
 <br><br>
 
-# 경고 DEPRECATED 된 기술입니다.
+# [경고] DEPRECATED 된 기술을 다룹니다.
 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/proto)도 찾아보지 않고 블로그 글이 너무 좋아서 정리하가다 발생한 참사..ㅠ ![sad](/blog/assets/images/ogu/sad-with-blanket.png)
 
-<br>
 ![deprecated](/blog/assets/images/javascript/2021-05-12-deprecated.png)
+
+<br>
+
+확인해 보니 chrome과 firefox와 `__proto__` 지원에 대한 차이가 있습니다.(왼 chrome, 오 firefox)
+
+![chrome](/blog/assets/images/javascript/2021-05-12-chrome.png)
+![firefox](/blog/assets/images/javascript/2021-05-12-firefox.png)
 
 ## 프로토타입기반 프로그래밍
 
